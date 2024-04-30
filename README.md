@@ -2,11 +2,16 @@
 #Autores:
 
 Gustavo Pasquini Lucas
+
 Enzo Gaião Real
+
 Vitor Couto
+
 Rodrigo Nakata
+
 Gabriel Henrrique Padula
-Descrição:
+
+# Descrição:
 
 Este repositório contém o trabalho de front-end da vinícola agnello, o objetivo principal do projeto foi criar uma pagina com estruturas de HTML e CSS.
 
