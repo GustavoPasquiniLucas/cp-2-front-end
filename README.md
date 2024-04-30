@@ -1,5 +1,5 @@
 # CP-2-FRONT-END
-#Autores:
+# Autores:
 
 Gustavo Pasquini Lucas
 
