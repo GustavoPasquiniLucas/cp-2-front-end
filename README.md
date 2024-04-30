@@ -13,7 +13,7 @@ Gabriel Henrrique Padula
 
 # Descrição:
 
-Este repositório contém o trabalho de front-end da vinícola agnello, o objetivo principal do projeto foi criar uma pagina com estruturas de HTML e CSS.
+Este repositório contém o trabalho de Front-End da Vinícola Agnello, o objetivo principal do projeto foi melhorar o trabalho apresentado no CP1 ultilizando novas tecnicas de CSS.
 
 
 # Relatorio:
