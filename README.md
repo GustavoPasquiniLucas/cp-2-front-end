@@ -23,8 +23,13 @@ CSS
 
 # Estrutura do Projeto
 index.html: Página principal do projeto.
+
 style.css: Arquivo de estilo para personalizar a aparência da página.
+
 about.html: Sobre a Vinheria Agnello.
+
 Rose.html: pagina informativa sobre o Vinho Rose.
+
 tinto.html: Pagina informativa sobre o Vinho tinto.
+
 branco.html
